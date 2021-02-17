@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WebRTC, Elixir**
 
-- 👨‍💻 All of my projects are available at [nadirabbas.com](nadirabbas.com)
+- 👨‍💻 All of my projects are available at [nadirabbas.com](https://nadirabbas.com)
 
 - 💬 Ask me about **React, Vue, Node, Laravel**
 
