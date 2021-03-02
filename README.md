@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently collaborating on [Dogehouse](https://github.com/benawad/dogehouse/graphs/contributors)
 
-- 🌱 I’m currently learning **WebRTC, Elixir**
+- 🌱 I’m currently learning **WebRTC, Elixir, Mediasoup**
 
 - 👨‍💻 All of my projects are available at [nadirabbas.com](https://nadirabbas.com)
 
