@@ -22,6 +22,7 @@
 <a href="https://fb.com/nadir2k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nadir2k" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uc3bsw_bb-f9gchhb_befqzg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc3bsw_bb-f9gchhb_befqzg" height="30" width="40" /></a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nadirabbas&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamesql&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 
